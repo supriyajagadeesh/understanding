@@ -1,2 +1,3 @@
 file2 in src1 folder
-adding new line
+adding new 
+adding new changes in src1 folder
